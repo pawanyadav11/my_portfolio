@@ -1,1 +1,1 @@
-# my_portfolio
+This is fully responsive Weather website created Using Html, CSS & Javascript. This website contains information about me like my education, my skills, my expercience and about my projects as well. If you want to send me any message than you send it through my portfolio website and message is directly send to my google sheet.
